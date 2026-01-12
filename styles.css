@@ -12,8 +12,8 @@ body {
 
 /* HEADER */
 header {
-  border-bottom: 3px solid #513a29;
-  background-color: #a61900;
+  border-bottom: 3px solid #37281c;
+  background-color: #6f1310;
   position: sticky;
   top: 0;
   z-index: 100;
@@ -222,7 +222,7 @@ main{
 .stat {
   padding: 1.5rem;
   border-radius: 10px;
-  border: 3.5px solid #3c4f27;
+  border: 3.5px solid #1d2713;
   background-color: #9FB279;
   cursor: pointer;
   transition: transform 0.5s, box-shadow 0.5s;
@@ -237,11 +237,11 @@ main{
 
 .stat h2{
   font-size: 40px;
-  color: #3c4f27;
+  color: #1d2713;
 }
 .stat p{
   font-size: 20px;
-  color: #506c45;
+  color: #1d2713;
 }
 
 
@@ -401,7 +401,7 @@ main{
 }
 .progress-completed:hover{
   background-color: #6f1310;
-  border-left: 5px solid blue;
+  border-left: 5px solid #511616;
 }
 .progress-name{
   font-size: large;
@@ -561,8 +561,8 @@ main{
     /* margin: 30px 0; */
     text-align: center;
     background-color: #9FB279;
-    color: #3c4f27;
-    border: 3.5px solid #3c4f27;
+    color: #1f300b;
+    border: 3.5px solid #1f300b;
     border-radius: 14px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
     font-family: 'Courier New', Courier, monospace;
@@ -581,8 +581,8 @@ main{
 .tabs{ 
     padding: 10px 30px;
     border-radius: 10px;
-    color: #3c4f27;
-    border: 3px solid #3c4f27;
+    color: #1f300b;
+    border: 3px solid #1f300b;
     background-color: #9FB279;
     display: flex;
     justify-content: center;
@@ -611,12 +611,13 @@ main{
     padding: 15px;
     text-align: center;
     background-color: #f3d9b1;
-    color: #4D251A;
+    color: #421e14;
     width: 260px;
     border-radius: 15px;
     border: 3.5px solid rgb(151, 44, 44);;
     margin-bottom: 30px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    font-weight: bold;
 } 
 
 .resource-description{
@@ -624,14 +625,14 @@ main{
     margin: 5px;
     border-radius: 5px;
     height: 150px;
-  background-color: #e1c7a0;
+  background-color: z#e0b472;
 }
 
 .item3 {
     padding: 5px;
     margin-top: 10px;
     background-color: #502512;
-    color: #e1c7a0;
+    color: #f3d9b1;
     border-radius: 5px;
     font-weight: bold;
     cursor: pointer;
