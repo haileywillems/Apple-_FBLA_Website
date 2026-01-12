@@ -576,6 +576,7 @@ main{
     display: flex;
     justify-content: center;
     gap: 20px;
+    flex-wrap:wrap;
 }
 
 .tabs{ 
@@ -715,4 +716,5 @@ footer {
   padding-top: 2rem;
   border-top: 1px solid;
   text-align: center;  
+
 }
