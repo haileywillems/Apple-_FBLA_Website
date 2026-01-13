@@ -542,7 +542,7 @@ main{
     border-radius: 5px;
     padding: 0.75rem;
     background-color: #cc3434;
-    color: rgb(47, 19, 1);
+    color: rgb(255, 241, 232);
     cursor: pointer;
     transition: background-color 0.2s, transform 0.2s;
 }
@@ -717,3 +717,4 @@ footer {
   border-top: 1px solid;
   text-align: center;  
 }
+
